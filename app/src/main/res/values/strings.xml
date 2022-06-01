@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Zeek Zakat Gold</string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram (g)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="tv_about_us">About Us</string>
+    <string name="zakatcalculation">ZAKAT CALCULATION</string>
+    <string name="aboutus">ABOUT US</string>
+
+    <string name="t_student_name">STUDENT NAME</string>
+    <string name="t_student_id">STUDENT ID</string>
+    <string name="t_group">GROUP</string>
+    <string name="t_program_code">PROGRAM CODE</string>
+    <string name="t_github">GITHUB URL</string>
+
+    <string name="student_name">HAZIQ ASYRAF BIN ABU HANIFAH</string>
+    <string name="student_id">2020982145</string>
+    <string name="group">RCS2405A</string>
+    <string name="program_code">CS240</string>
+    <string name="github">https://github.com/haziqasyraf08/ZeekZakatGold</string>
+    <string name="copyright">Copyright (c) 2022 Haziq Asyraf</string>
+
+
+</resources>
